@@ -5,4 +5,4 @@ Indice Ejercicios
 3. [Flipbook Tamaño Original](https://matisbev.github.io/mediosInteractivos/35/)
 4. [Flipbook Tamaño Ajutsable](https://matisbev.github.io/mediosInteractivos/03/)
 5. [Herramienta Dibujo](https://matisbev.github.io/mediosInteractivos/04/)
-6. [Reloj](https://matisbev.github.io/mediosInteractivos/05/)
+6. [Reloj](https://matisbev.github.io/mediosInteractivos/06/)
