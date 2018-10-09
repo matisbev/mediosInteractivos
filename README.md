@@ -7,4 +7,4 @@ Indice Ejercicios
 5. [Herramienta Dibujo](https://matisbev.github.io/mediosInteractivos/04/)
 6. [Reloj](https://matisbev.github.io/mediosInteractivos/06/)
 7. [Video musical interactivo](https://matisbev.github.io/mediosInteractivos/08/)
-8. [Ecosistema](https://matisbev.github.io/mediosInteractivos/07/)
+8. [Ecosistema](https://matisbev.github.io/mediosInteractivos/81/)
