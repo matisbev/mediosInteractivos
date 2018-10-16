@@ -8,4 +8,4 @@ Indice Ejercicios
 6. [Reloj](https://matisbev.github.io/mediosInteractivos/06/)
 7. [Video musical interactivo](https://matisbev.github.io/mediosInteractivos/08/)
 8. [Ecosistema](https://matisbev.github.io/mediosInteractivos/81/)
-9. [Ecosistema+ gestos e interacción](https://matisbev.github.io/mediosInteractivos/09/)
+9. [Ecosistema+ gestos e interacción](https://matisbev.github.io/mediosInteractivos/82/)
