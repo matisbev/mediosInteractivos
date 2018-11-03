@@ -9,3 +9,4 @@ Indice Ejercicios
 7. [Video musical interactivo](https://matisbev.github.io/mediosInteractivos/08/)
 8. [Ecosistema](https://matisbev.github.io/mediosInteractivos/81/)
 9. [Ecosistema+ gestos e interacción](https://matisbev.github.io/mediosInteractivos/82/)
+10. [Juego version 1](https://matisbev.github.io/mediosInteractivos/juego/)
