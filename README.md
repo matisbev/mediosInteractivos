@@ -10,4 +10,5 @@ Indice Ejercicios
 8. [Ecosistema](https://matisbev.github.io/mediosInteractivos/81/)
 9. [Ecosistema+ gestos e interacción](https://matisbev.github.io/mediosInteractivos/82/)
 10. [Juego version 1](https://matisbev.github.io/mediosInteractivos/juego/)
-10. [Juego final (solo sirve en dispositivo movil)](https://editor.p5js.org/matisbev/full/SyhedLH37)
+11. [Juego final (solo sirve en dispositivo movil)](https://editor.p5js.org/matisbev/full/SyhedLH37)
+12. [Juego entrega (solo sirve en dispositivo movil)](https://matisbev.github.io/mediosInteractivos/juegofinal/)
